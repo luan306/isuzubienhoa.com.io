@@ -102,6 +102,9 @@
     .header__logo {
         width: unset;
     }
+    .header__menu-mobile {
+        width: 100%;
+    }
     .header__search {
         position: fixed;
         top: var(--header-height);
